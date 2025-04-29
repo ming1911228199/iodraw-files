@@ -61,11 +61,14 @@
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U1wfA4BcnqC9kxf9Z_wC-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="U1wfA4BcnqC9kxf9Z_wC-15">
+        <mxCell id="U1wfA4BcnqC9kxf9Z_wC-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U1wfA4BcnqC9kxf9Z_wC-2" target="U1wfA4BcnqC9kxf9Z_wC-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="505" y="250" as="sourcePoint" />
             <mxPoint x="505" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="U1wfA4BcnqC9kxf9Z_wC-19" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="180" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
