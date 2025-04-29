@@ -76,14 +76,8 @@
         <mxCell id="U1wfA4BcnqC9kxf9Z_wC-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;lend(id,book_id,reader_id,lend_date,return_date)&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="370" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="U1wfA4BcnqC9kxf9Z_wC-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="U1wfA4BcnqC9kxf9Z_wC-24" value="book_id,reader_id为外键" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="410" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="U1wfA4BcnqC9kxf9Z_wC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U1wfA4BcnqC9kxf9Z_wC-24" target="U1wfA4BcnqC9kxf9Z_wC-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
