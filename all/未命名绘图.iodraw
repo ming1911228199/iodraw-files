@@ -80,7 +80,7 @@
           <mxGeometry x="380" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U1wfA4BcnqC9kxf9Z_wC-24" value="book_id,reader_id为外键" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="410" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="410" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
