@@ -52,10 +52,10 @@
         <mxCell id="tIe2HSFcEmk9zPti-Qfo-14" value="号码" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="200" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tIe2HSFcEmk9zPti-Qfo-15" value="面积" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tIe2HSFcEmk9zPti-Qfo-15" value="积分" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="200" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tIe2HSFcEmk9zPti-Qfo-16" value="零件类型" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="tIe2HSFcEmk9zPti-Qfo-16" value="等级" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="465" y="200" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tIe2HSFcEmk9zPti-Qfo-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tIe2HSFcEmk9zPti-Qfo-2" target="tIe2HSFcEmk9zPti-Qfo-14" edge="1">
