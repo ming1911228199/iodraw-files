@@ -238,7 +238,7 @@
         <mxCell id="s3TsfB7z-R0uvtQxLs1K-33" value="m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="810" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s3TsfB7z-R0uvtQxLs1K-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s3TsfB7z-R0uvtQxLs1K-34" value="职工（职工号）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="990" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s3TsfB7z-R0uvtQxLs1K-35" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -248,7 +248,7 @@
           <mxGeometry x="100" y="1050" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s3TsfB7z-R0uvtQxLs1K-37" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="1060" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="1080" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
