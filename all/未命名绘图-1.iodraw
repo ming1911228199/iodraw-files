@@ -128,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="s3TsfB7z-R0uvtQxLs1K-8" value="销售部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="800" width="70" height="40" as="geometry" />
+          <mxGeometry x="190" y="760" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s3TsfB7z-R0uvtQxLs1K-9" value="部门名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="880" width="80" height="60" as="geometry" />
