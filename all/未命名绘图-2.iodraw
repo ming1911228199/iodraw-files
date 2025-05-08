@@ -214,6 +214,9 @@
         <mxCell id="mIZdGhUlID20Ho3V27UL-39" value="具有2（姓名，街道，地址个数）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="530" width="350" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mIZdGhUlID20Ho3V27UL-40" value="具有2（姓名，街道，地址个数）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="540" width="350" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
