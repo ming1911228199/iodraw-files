@@ -217,6 +217,9 @@
         <mxCell id="mIZdGhUlID20Ho3V27UL-40" value="办理（姓名，号码）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="555" width="350" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mIZdGhUlID20Ho3V27UL-42" value="办理（姓名，号码）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="585" width="350" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
