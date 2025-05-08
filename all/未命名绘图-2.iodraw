@@ -211,7 +211,7 @@
         <mxCell id="mIZdGhUlID20Ho3V27UL-38" value="具有1（号码，姓名，号码个数）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="510" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mIZdGhUlID20Ho3V27UL-39" value="具有2（）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mIZdGhUlID20Ho3V27UL-39" value="具有2（姓名，街道，地址个数）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="530" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
