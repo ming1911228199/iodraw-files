@@ -142,7 +142,7 @@
         <mxCell id="o4aFDUWmiRxQlkKTlN12-90" value="地址个数" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="o4aFDUWmiRxQlkKTlN12-91" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="o4aFDUWmiRxQlkKTlN12-89">
+        <mxCell id="o4aFDUWmiRxQlkKTlN12-91" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o4aFDUWmiRxQlkKTlN12-141" target="o4aFDUWmiRxQlkKTlN12-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="242.5" as="sourcePoint" />
             <mxPoint x="450" y="360" as="targetPoint" />
@@ -168,6 +168,12 @@
         </mxCell>
         <mxCell id="o4aFDUWmiRxQlkKTlN12-143" value="区号" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="890" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o4aFDUWmiRxQlkKTlN12-144" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="o4aFDUWmiRxQlkKTlN12-65" target="o4aFDUWmiRxQlkKTlN12-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="860" as="sourcePoint" />
+            <mxPoint x="440" y="810" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
