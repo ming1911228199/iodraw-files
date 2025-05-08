@@ -100,7 +100,7 @@
         <mxCell id="mIZdGhUlID20Ho3V27UL-4" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="312.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mIZdGhUlID20Ho3V27UL-6" value="具有" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="mIZdGhUlID20Ho3V27UL-6" value="具有1" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="190" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="mIZdGhUlID20Ho3V27UL-7" value="电话号码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -207,6 +207,12 @@
         </mxCell>
         <mxCell id="mIZdGhUlID20Ho3V27UL-37" value="地址（省，市，区，街道）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="490" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mIZdGhUlID20Ho3V27UL-38" value="地址（省，市，区，街道）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="510" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mIZdGhUlID20Ho3V27UL-39" value="地址（省，市，区，街道）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="530" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
