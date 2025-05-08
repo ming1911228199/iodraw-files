@@ -178,8 +178,8 @@
             <mxPoint x="440" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mIZdGhUlID20Ho3V27UL-29" value="号码" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="70" height="40" as="geometry" />
+        <mxCell id="mIZdGhUlID20Ho3V27UL-29" value="号码个数" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
