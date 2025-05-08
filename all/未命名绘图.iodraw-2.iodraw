@@ -235,13 +235,8 @@
         <mxCell id="cS5PpPLA9VVACyinTFLM-58" value="m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cS5PpPLA9VVACyinTFLM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="cS5PpPLA9VVACyinTFLM-59">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cS5PpPLA9VVACyinTFLM-59" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="385" y="370" width="60" height="30" as="geometry" />
+          <mxGeometry x="370" y="410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cS5PpPLA9VVACyinTFLM-60" value="m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="220" width="60" height="30" as="geometry" />
