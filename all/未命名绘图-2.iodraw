@@ -91,20 +91,11 @@
             <mxPoint x="380" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tIe2HSFcEmk9zPti-Qfo-26" value="职工号" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="480" width="70" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tIe2HSFcEmk9zPti-Qfo-28" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tIe2HSFcEmk9zPti-Qfo-30" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="200" y="500" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tIe2HSFcEmk9zPti-Qfo-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="tIe2HSFcEmk9zPti-Qfo-26" target="tIe2HSFcEmk9zPti-Qfo-21" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="570" as="sourcePoint" />
-            <mxPoint x="370" y="520" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="tIe2HSFcEmk9zPti-Qfo-38" value="供应" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="380" width="60" height="100" as="geometry" />
