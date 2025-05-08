@@ -250,8 +250,8 @@
         <mxCell id="s3TsfB7z-R0uvtQxLs1K-40" value="销售（名，部门名称，品名，数量）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="1080" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="s3TsfB7z-R0uvtQxLs1K-41" value="销售（名，部门名称，品名，数量）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1090" width="350" height="30" as="geometry" />
+        <mxCell id="s3TsfB7z-R0uvtQxLs1K-41" value="部门名称，品名" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1110" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
