@@ -139,14 +139,14 @@
         <mxCell id="cS5PpPLA9VVACyinTFLM-36" value="项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cS5PpPLA9VVACyinTFLM-37" value="员工编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cS5PpPLA9VVACyinTFLM-37" value="项目编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="470" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cS5PpPLA9VVACyinTFLM-38" value="员工编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="470" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cS5PpPLA9VVACyinTFLM-39" value="员工编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="480" width="80" height="50" as="geometry" />
+          <mxGeometry x="580" y="470" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
