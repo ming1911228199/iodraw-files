@@ -97,7 +97,7 @@
             <mxPoint x="440" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3TsfB7z-R0uvtQxLs1K-1" value="book" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s3TsfB7z-R0uvtQxLs1K-1" value="职工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="550" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
