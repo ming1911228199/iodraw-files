@@ -229,8 +229,8 @@
             <mxPoint x="345" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cS5PpPLA9VVACyinTFLM-57" value="项目编号" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="390" y="480" width="80" height="50" as="geometry" />
+        <mxCell id="cS5PpPLA9VVACyinTFLM-57" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;工作时间比&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="305" y="520" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
