@@ -127,8 +127,8 @@
             <mxPoint x="440" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s3TsfB7z-R0uvtQxLs1K-8" value="职工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="720" width="70" height="40" as="geometry" />
+        <mxCell id="s3TsfB7z-R0uvtQxLs1K-8" value="销售部" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="770" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
