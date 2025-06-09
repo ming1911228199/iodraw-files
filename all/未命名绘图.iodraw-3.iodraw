@@ -55,7 +55,7 @@
         <mxCell id="wFXUPPiORcOmKkTwzhBT-18" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="680" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFXUPPiORcOmKkTwzhBT-19" value="借阅日期&lt;div&gt;lend_daate&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wFXUPPiORcOmKkTwzhBT-19" value="借阅日期&lt;div&gt;lend_date&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="360" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFXUPPiORcOmKkTwzhBT-20" value="归还日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
