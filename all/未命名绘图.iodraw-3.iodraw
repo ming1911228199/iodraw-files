@@ -22,7 +22,7 @@
         <mxCell id="wFXUPPiORcOmKkTwzhBT-7" value="类别名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="460" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFXUPPiORcOmKkTwzhBT-8" value="分类号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wFXUPPiORcOmKkTwzhBT-8" value="分类号&lt;div&gt;class_id&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFXUPPiORcOmKkTwzhBT-9" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="wFXUPPiORcOmKkTwzhBT-17" value="地&lt;span style=&quot;background-color: initial;&quot;&gt;址&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;address&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="740" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFXUPPiORcOmKkTwzhBT-18" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wFXUPPiORcOmKkTwzhBT-18" value="电话&lt;div&gt;phone&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="680" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFXUPPiORcOmKkTwzhBT-19" value="借阅日期&lt;div&gt;lend_date&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
