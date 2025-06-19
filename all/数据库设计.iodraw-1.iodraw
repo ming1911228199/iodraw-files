@@ -191,13 +191,16 @@
           <mxGeometry x="-110" y="340" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkvzOKoreH-NlQtRcAhh-6" value="订单号&lt;br&gt;order_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="480" width="100" height="60" as="geometry" />
+          <mxGeometry x="-110" y="475" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rkvzOKoreH-NlQtRcAhh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="rkvzOKoreH-NlQtRcAhh-5" target="rkvzOKoreH-NlQtRcAhh-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rkvzOKoreH-NlQtRcAhh-8" value="商品编号&lt;br&gt;good_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-200" y="415" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rkvzOKoreH-NlQtRcAhh-9" value="订单号&lt;br&gt;order_id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="485" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
