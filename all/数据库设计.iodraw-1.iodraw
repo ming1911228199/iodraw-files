@@ -10,7 +10,7 @@
         <mxCell id="wFXUPPiORcOmKkTwzhBT-2" value="用户名&lt;br&gt;username" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-150" y="170" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFXUPPiORcOmKkTwzhBT-3" value="借阅&lt;div&gt;lendlist&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wFXUPPiORcOmKkTwzhBT-3" value="下订单&lt;br&gt;Orderize" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="155" y="410" width="105" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wFXUPPiORcOmKkTwzhBT-5" value="读者&lt;div&gt;reader&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
