@@ -34,7 +34,7 @@
         <mxCell id="wFXUPPiORcOmKkTwzhBT-18" value="电话&lt;div&gt;phone&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="680" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wFXUPPiORcOmKkTwzhBT-19" value="订单号&lt;br&gt;id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wFXUPPiORcOmKkTwzhBT-19" value="用户名&lt;br&gt;user_id" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="310" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wFXUPPiORcOmKkTwzhBT-20" value="价格&lt;div&gt;price&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -202,9 +202,15 @@
         <mxCell id="rkvzOKoreH-NlQtRcAhh-9" value="单号&lt;br&gt;id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="750" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rkvzOKoreH-NlQtRcAhh-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rkvzOKoreH-NlQtRcAhh-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="rkvzOKoreH-NlQtRcAhh-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="610" as="sourcePoint" />
+            <mxPoint x="330" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rkvzOKoreH-NlQtRcAhh-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="610" as="sourcePoint" />
             <mxPoint x="330" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
