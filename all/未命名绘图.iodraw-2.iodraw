@@ -236,7 +236,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4tlWtC_l9kOTVExC_STu-53" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="321" y="340" width="50" height="80" as="geometry" />
+          <mxGeometry x="310" y="530" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4tlWtC_l9kOTVExC_STu-54" value="体检报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="465" width="88" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
