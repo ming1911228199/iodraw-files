@@ -259,14 +259,20 @@
         <mxCell id="4tlWtC_l9kOTVExC_STu-62" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="505" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4tlWtC_l9kOTVExC_STu-63" value="学号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4tlWtC_l9kOTVExC_STu-63" value="结果id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="700" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4tlWtC_l9kOTVExC_STu-64" value="异常状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="291" y="730" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4tlWtC_l9kOTVExC_STu-66" value="学号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4tlWtC_l9kOTVExC_STu-66" value="结果数值" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="700" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4tlWtC_l9kOTVExC_STu-67" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="540" as="sourcePoint" />
+            <mxPoint x="490" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
