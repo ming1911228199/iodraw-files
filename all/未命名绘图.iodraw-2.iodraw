@@ -169,6 +169,9 @@
         <mxCell id="cS5PpPLA9VVACyinTFLM-70" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="370" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4tlWtC_l9kOTVExC_STu-19" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cS5PpPLA9VVACyinTFLM-23" target="cS5PpPLA9VVACyinTFLM-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cS5PpPLA9VVACyinTFLM-23" value="实习生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="292" y="250" width="88" height="40" as="geometry" />
         </mxCell>
@@ -210,6 +213,12 @@
               <mxPoint x="490" y="410" />
               <mxPoint x="440" y="360" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4tlWtC_l9kOTVExC_STu-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="540" as="sourcePoint" />
+            <mxPoint x="490" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
