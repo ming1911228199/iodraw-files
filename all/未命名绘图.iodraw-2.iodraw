@@ -55,13 +55,13 @@
         <mxCell id="cS5PpPLA9VVACyinTFLM-13" value="m" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="160" y="220" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cS5PpPLA9VVACyinTFLM-14" value="员工编号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cS5PpPLA9VVACyinTFLM-14" value="学号" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="470" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cS5PpPLA9VVACyinTFLM-15" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="470" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="cS5PpPLA9VVACyinTFLM-16" value="级别" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cS5PpPLA9VVACyinTFLM-16" value="性别" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="470" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cS5PpPLA9VVACyinTFLM-17" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
