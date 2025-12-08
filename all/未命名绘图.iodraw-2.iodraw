@@ -241,9 +241,9 @@
         <mxCell id="4tlWtC_l9kOTVExC_STu-54" value="体检结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="291" y="650" width="88" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4tlWtC_l9kOTVExC_STu-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4tlWtC_l9kOTVExC_STu-59" target="4tlWtC_l9kOTVExC_STu-39">
+        <mxCell id="4tlWtC_l9kOTVExC_STu-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4tlWtC_l9kOTVExC_STu-53" target="4tlWtC_l9kOTVExC_STu-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="540" as="sourcePoint" />
+            <mxPoint x="310" y="505" as="sourcePoint" />
             <mxPoint x="490" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -256,14 +256,8 @@
         <mxCell id="4tlWtC_l9kOTVExC_STu-58" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4tlWtC_l9kOTVExC_STu-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4tlWtC_l9kOTVExC_STu-53" target="4tlWtC_l9kOTVExC_STu-59">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="335" y="530" as="sourcePoint" />
-            <mxPoint x="336" y="495" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4tlWtC_l9kOTVExC_STu-59" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="505" width="60" height="30" as="geometry" />
+        <mxCell id="4tlWtC_l9kOTVExC_STu-62" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="620" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
