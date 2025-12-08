@@ -187,6 +187,9 @@
             <mxPoint x="770" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="4tlWtC_l9kOTVExC_STu-37" value="送检" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="50" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
