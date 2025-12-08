@@ -290,7 +290,7 @@
           <mxGeometry x="465" y="630" width="55" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4tlWtC_l9kOTVExC_STu-72" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="600" width="60" height="30" as="geometry" />
+          <mxGeometry x="400" y="640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4tlWtC_l9kOTVExC_STu-75" value="体检指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="622" y="650" width="88" height="40" as="geometry" />
