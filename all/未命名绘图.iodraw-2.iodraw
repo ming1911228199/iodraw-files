@@ -190,7 +190,7 @@
         <mxCell id="4tlWtC_l9kOTVExC_STu-37" value="生成" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="311" y="330" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4tlWtC_l9kOTVExC_STu-39" value="体检样本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4tlWtC_l9kOTVExC_STu-39" value="体检报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="292" y="455" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4tlWtC_l9kOTVExC_STu-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4tlWtC_l9kOTVExC_STu-37" target="cS5PpPLA9VVACyinTFLM-23">
