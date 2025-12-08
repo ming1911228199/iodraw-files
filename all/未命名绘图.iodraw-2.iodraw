@@ -289,20 +289,14 @@
         <mxCell id="4tlWtC_l9kOTVExC_STu-70" value="送检" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="630" width="50" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4tlWtC_l9kOTVExC_STu-71" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4tlWtC_l9kOTVExC_STu-72" target="4tlWtC_l9kOTVExC_STu-70">
+        <mxCell id="4tlWtC_l9kOTVExC_STu-71" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="540" as="sourcePoint" />
-            <mxPoint x="490" y="490" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4tlWtC_l9kOTVExC_STu-73" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4tlWtC_l9kOTVExC_STu-54" target="4tlWtC_l9kOTVExC_STu-72">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="379" y="670" as="sourcePoint" />
-            <mxPoint x="495" y="670" as="targetPoint" />
+            <mxPoint x="380" y="670" as="sourcePoint" />
+            <mxPoint x="496" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4tlWtC_l9kOTVExC_STu-72" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="405" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
