@@ -112,7 +112,7 @@
         <mxCell id="cS5PpPLA9VVACyinTFLM-61" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cS5PpPLA9VVACyinTFLM-23" value="实习生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cS5PpPLA9VVACyinTFLM-23" value="体检样本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="292" y="250" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4tlWtC_l9kOTVExC_STu-4" value="送检日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -145,7 +145,7 @@
         <mxCell id="4tlWtC_l9kOTVExC_STu-26" value="医生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="250" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4tlWtC_l9kOTVExC_STu-27" value="教工号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4tlWtC_l9kOTVExC_STu-27" value="医生工号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="160" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4tlWtC_l9kOTVExC_STu-28" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
