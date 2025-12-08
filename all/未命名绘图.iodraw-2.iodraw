@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cS5PpPLA9VVACyinTFLM-23" value="实习生" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="260" width="88" height="40" as="geometry" />
+          <mxGeometry x="280" y="240" width="88" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
