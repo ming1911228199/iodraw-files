@@ -116,7 +116,7 @@
           <mxGeometry x="292" y="250" width="88" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4tlWtC_l9kOTVExC_STu-4" value="样品号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="296" y="120" width="80" height="50" as="geometry" />
+          <mxGeometry x="410" y="130" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cS5PpPLA9VVACyinTFLM-67" value="n" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="236" y="280" width="60" height="30" as="geometry" />
@@ -132,6 +132,9 @@
             <mxPoint x="440" y="410" as="sourcePoint" />
             <mxPoint x="490" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4tlWtC_l9kOTVExC_STu-24" value="样品号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="306" y="130" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
