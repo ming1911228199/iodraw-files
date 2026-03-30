@@ -294,7 +294,7 @@
         <mxCell id="4_vb_48yGQC5HTHSpw9l-5" value="输出模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="526" y="136" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4_vb_48yGQC5HTHSpw9l-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="4_vb_48yGQC5HTHSpw9l-4">
+        <mxCell id="4_vb_48yGQC5HTHSpw9l-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="4_vb_48yGQC5HTHSpw9l-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="364" y="203" as="sourcePoint" />
             <mxPoint x="414" y="153" as="targetPoint" />
