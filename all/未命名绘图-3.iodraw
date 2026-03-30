@@ -279,9 +279,6 @@
         <mxCell id="4_vb_48yGQC5HTHSpw9l-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="4_vb_48yGQC5HTHSpw9l-2" target="4_vb_48yGQC5HTHSpw9l-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4_vb_48yGQC5HTHSpw9l-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="4_vb_48yGQC5HTHSpw9l-2" target="4_vb_48yGQC5HTHSpw9l-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="4_vb_48yGQC5HTHSpw9l-2" value="主程序" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="347" y="26" width="120" height="60" as="geometry" />
         </mxCell>
@@ -292,7 +289,7 @@
           <mxGeometry x="347" y="136" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4_vb_48yGQC5HTHSpw9l-5" value="输出模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="526" y="136" width="120" height="60" as="geometry" />
+          <mxGeometry x="536" y="258" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4_vb_48yGQC5HTHSpw9l-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="4_vb_48yGQC5HTHSpw9l-2" target="4_vb_48yGQC5HTHSpw9l-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -311,6 +308,9 @@
         </mxCell>
         <mxCell id="4_vb_48yGQC5HTHSpw9l-16" value="计算模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="347" y="258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4_vb_48yGQC5HTHSpw9l-17" value="输出模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+          <mxGeometry x="536" y="146" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
