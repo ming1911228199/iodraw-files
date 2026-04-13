@@ -321,42 +321,6 @@
             <mxPoint x="419" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-2" value="票务核心服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="349" y="496" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-5" value="Redis缓存集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="170" y="634" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-6" value="主数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="349" y="634" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-7" value="从数据库（只读）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="528" y="634" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="Af1BTz23z9BvRzmzAhZG-2" target="Af1BTz23z9BvRzmzAhZG-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="362" y="585" as="sourcePoint" />
-            <mxPoint x="183" y="635" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="Af1BTz23z9BvRzmzAhZG-2" target="Af1BTz23z9BvRzmzAhZG-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="469" y="585" as="sourcePoint" />
-            <mxPoint x="658" y="635" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="Af1BTz23z9BvRzmzAhZG-2" target="Af1BTz23z9BvRzmzAhZG-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="419" y="466" as="sourcePoint" />
-            <mxPoint x="419" y="506" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-11" value="（削峰、异步）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="478" y="411" width="83" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-12" value="（余票、锁票、出票）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="478" y="511" width="125" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Af1BTz23z9BvRzmzAhZG-13" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="538" y="389" width="120" height="60" as="geometry" />
         </mxCell>
