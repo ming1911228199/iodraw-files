@@ -327,8 +327,8 @@
         <mxCell id="Af1BTz23z9BvRzmzAhZG-15" value="扣除库存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="308" y="324" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="558" y="324" width="60" height="30" as="geometry" />
+        <mxCell id="Af1BTz23z9BvRzmzAhZG-16" value="创建支付单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+          <mxGeometry x="558" y="324" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
