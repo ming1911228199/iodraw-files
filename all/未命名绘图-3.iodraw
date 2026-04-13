@@ -276,7 +276,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="4_vb_48yGQC5HTHSpw9l-1" parent="0" />
-        <mxCell id="4_vb_48yGQC5HTHSpw9l-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" parent="4_vb_48yGQC5HTHSpw9l-1" vertex="1">
+        <mxCell id="4_vb_48yGQC5HTHSpw9l-2" value="负载均衡" style="rounded=0;whiteSpace=wrap;html=1;" parent="4_vb_48yGQC5HTHSpw9l-1" vertex="1">
           <mxGeometry x="349" y="128" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4_vb_48yGQC5HTHSpw9l-3" value="输入模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="4_vb_48yGQC5HTHSpw9l-1" vertex="1">
@@ -343,7 +343,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Af1BTz23z9BvRzmzAhZG-0" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="349" y="39" width="120" height="60" as="geometry" />
+          <mxGeometry x="349" y="18" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
