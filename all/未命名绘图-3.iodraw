@@ -336,7 +336,7 @@
             <mxPoint x="419" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-2" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+        <mxCell id="Af1BTz23z9BvRzmzAhZG-2" value="票务核心服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="349" y="496" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
