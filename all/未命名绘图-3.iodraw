@@ -331,10 +331,13 @@
           <mxGeometry x="558" y="324" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Af1BTz23z9BvRzmzAhZG-17" value="记录操作日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="308" y="485" width="60" height="30" as="geometry" />
+          <mxGeometry x="259" y="454" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Af1BTz23z9BvRzmzAhZG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="Af1BTz23z9BvRzmzAhZG-17" target="Af1BTz23z9BvRzmzAhZG-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Af1BTz23z9BvRzmzAhZG-19" value="记录操作日志" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+          <mxGeometry x="269" y="464" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
