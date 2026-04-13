@@ -288,8 +288,8 @@
             <mxPoint x="230" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4_vb_48yGQC5HTHSpw9l-16" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;" parent="4_vb_48yGQC5HTHSpw9l-1" vertex="1">
-          <mxGeometry x="225" y="389" width="120" height="60" as="geometry" />
+        <mxCell id="4_vb_48yGQC5HTHSpw9l-16" value="日志服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="4_vb_48yGQC5HTHSpw9l-1" vertex="1">
+          <mxGeometry x="229" y="386" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4_vb_48yGQC5HTHSpw9l-17" value="支付服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="4_vb_48yGQC5HTHSpw9l-1" vertex="1">
           <mxGeometry x="469" y="231" width="120" height="60" as="geometry" />
