@@ -321,8 +321,11 @@
             <mxPoint x="419" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-13" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+        <mxCell id="Af1BTz23z9BvRzmzAhZG-13" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="469" y="389" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Af1BTz23z9BvRzmzAhZG-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+          <mxGeometry x="520" y="400" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
