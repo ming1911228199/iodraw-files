@@ -345,7 +345,7 @@
             <mxPoint x="419" y="406" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-5" value="用户认证服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+        <mxCell id="Af1BTz23z9BvRzmzAhZG-5" value="Redis缓存集群" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="170" y="634" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Af1BTz23z9BvRzmzAhZG-6" value="车次查询服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
