@@ -324,11 +324,11 @@
         <mxCell id="Af1BTz23z9BvRzmzAhZG-13" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="469" y="389" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+        <mxCell id="Af1BTz23z9BvRzmzAhZG-15" value="扣除库存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="308" y="324" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Af1BTz23z9BvRzmzAhZG-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
-          <mxGeometry x="318" y="334" width="60" height="30" as="geometry" />
+          <mxGeometry x="558" y="324" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
