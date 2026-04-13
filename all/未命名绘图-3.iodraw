@@ -351,7 +351,7 @@
         <mxCell id="Af1BTz23z9BvRzmzAhZG-6" value="主数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="349" y="634" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Af1BTz23z9BvRzmzAhZG-7" value="输出模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+        <mxCell id="Af1BTz23z9BvRzmzAhZG-7" value="从数据库（只读）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="528" y="634" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Af1BTz23z9BvRzmzAhZG-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4_vb_48yGQC5HTHSpw9l-1" source="Af1BTz23z9BvRzmzAhZG-2" target="Af1BTz23z9BvRzmzAhZG-5">
