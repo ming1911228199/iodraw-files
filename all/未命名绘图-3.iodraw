@@ -375,6 +375,9 @@
         <mxCell id="Af1BTz23z9BvRzmzAhZG-11" value="（削峰、异步）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
           <mxGeometry x="478" y="411" width="83" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Af1BTz23z9BvRzmzAhZG-12" value="（削峰、异步）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4_vb_48yGQC5HTHSpw9l-1">
+          <mxGeometry x="478" y="511" width="83" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
