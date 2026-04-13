@@ -297,7 +297,7 @@
             <mxPoint x="230" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4_vb_48yGQC5HTHSpw9l-16" value="计算模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="4_vb_48yGQC5HTHSpw9l-1" vertex="1">
+        <mxCell id="4_vb_48yGQC5HTHSpw9l-16" value="消息队列" style="rounded=0;whiteSpace=wrap;html=1;" parent="4_vb_48yGQC5HTHSpw9l-1" vertex="1">
           <mxGeometry x="349" y="396" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4_vb_48yGQC5HTHSpw9l-17" value="输出模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="4_vb_48yGQC5HTHSpw9l-1" vertex="1">
