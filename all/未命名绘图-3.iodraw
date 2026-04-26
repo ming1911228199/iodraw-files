@@ -70,16 +70,11 @@
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-21" value="库存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-419" y="481" width="83" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ZrgJHmSe8V3CelcKzVRL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZrgJHmSe8V3CelcKzVRL-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-160.764404296875" y="517.6666666666667" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-22" value="库存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="481" width="83" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-23" value="库存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="491" width="83" height="48" as="geometry" />
+          <mxGeometry x="-181" y="481" width="83" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
