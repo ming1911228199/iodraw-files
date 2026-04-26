@@ -107,7 +107,13 @@
           <mxGeometry x="-84" y="462" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-32" value="发布者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="310" width="83" height="48" as="geometry" />
+          <mxGeometry x="-13" y="240" width="83" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrgJHmSe8V3CelcKzVRL-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZrgJHmSe8V3CelcKzVRL-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="81" y="521" as="sourcePoint" />
+            <mxPoint x="131" y="471" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
