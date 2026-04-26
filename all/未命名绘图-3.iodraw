@@ -43,10 +43,10 @@
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-15" value="事件投递" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-303" y="228" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZrgJHmSe8V3CelcKzVRL-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZrgJHmSe8V3CelcKzVRL-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZrgJHmSe8V3CelcKzVRL-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-516" y="257" as="sourcePoint" />
-            <mxPoint x="-466" y="207" as="targetPoint" />
+            <mxPoint x="-191" y="399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
