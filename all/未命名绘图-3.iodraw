@@ -37,8 +37,8 @@
             <mxPoint x="-466" y="207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZrgJHmSe8V3CelcKzVRL-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-521" y="217" width="60" height="30" as="geometry" />
+        <mxCell id="ZrgJHmSe8V3CelcKzVRL-13" value="发布事件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-447" y="228" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
