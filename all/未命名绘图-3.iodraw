@@ -94,17 +94,17 @@
             <mxPoint x="-466" y="314" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZrgJHmSe8V3CelcKzVRL-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZrgJHmSe8V3CelcKzVRL-23">
+        <mxCell id="ZrgJHmSe8V3CelcKzVRL-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-516" y="364" as="sourcePoint" />
-            <mxPoint x="-12" y="505" as="targetPoint" />
+            <mxPoint x="48" y="643" as="sourcePoint" />
+            <mxPoint x="134" y="643" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-29" value="通知服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="481" width="83" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-30" value="事件投递" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-293" y="238" width="60" height="30" as="geometry" />
+          <mxGeometry x="-147" y="376" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
