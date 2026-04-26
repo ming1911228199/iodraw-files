@@ -16,7 +16,7 @@
             <mxPoint x="-370" y="339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZrgJHmSe8V3CelcKzVRL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZrgJHmSe8V3CelcKzVRL-4" target="ZrgJHmSe8V3CelcKzVRL-5">
+        <mxCell id="ZrgJHmSe8V3CelcKzVRL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZrgJHmSe8V3CelcKzVRL-13" target="ZrgJHmSe8V3CelcKzVRL-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-4" value="订单服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -37,8 +37,14 @@
             <mxPoint x="-466" y="207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZrgJHmSe8V3CelcKzVRL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZrgJHmSe8V3CelcKzVRL-4" target="ZrgJHmSe8V3CelcKzVRL-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-447" y="266" as="sourcePoint" />
+            <mxPoint x="-383" y="266" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-521" y="217" width="60" height="30" as="geometry" />
+          <mxGeometry x="-447" y="237" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
