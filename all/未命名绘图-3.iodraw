@@ -67,7 +67,7 @@
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-20" value="库存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-536" y="481" width="83" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ZrgJHmSe8V3CelcKzVRL-21" value="库存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZrgJHmSe8V3CelcKzVRL-21" value="支付服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-419" y="481" width="83" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-22" value="库存服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
