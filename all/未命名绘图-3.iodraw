@@ -271,7 +271,7 @@
         <mxCell id="ZrgJHmSe8V3CelcKzVRL-1" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-784" y="242" width="61" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="ZrgJHmSe8V3CelcKzVRL-2" value="客户端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZrgJHmSe8V3CelcKzVRL-2" value="插入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-656" y="242" width="61" height="168" as="geometry" />
         </mxCell>
       </root>
